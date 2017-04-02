@@ -1,0 +1,31 @@
+body{
+  background-color: lightblue;
+  font-style: normal;
+  font-size: 25px;
+  font-family:sans-serif;
+
+}
+h1{
+  margin:30px;
+  background-color: red;
+  border-style: dotted;
+}
+div.SUB{
+  border-style:solid;
+  margin:35px;
+
+}
+label.sub{
+  margin:20px;
+  padding:20px;
+  align:center;
+}
+
+fieldset{
+  background-color: lightgreen;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+label.teacherInfo{
+  font
+}
